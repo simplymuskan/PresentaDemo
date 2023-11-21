@@ -1,5 +1,7 @@
-#app{
-    width: 500px;
-    height: 350px;
-    overflow: hidden;
-  }
+#app {
+  width: 500px;
+  height: 350px;
+  overflow: hidden;
+  background-image: url('https://unsplash.com/photos/brown-and-white-paper-bag-OtqaCE_SEMI');
+  aspect-ratio: vertical;
+}
